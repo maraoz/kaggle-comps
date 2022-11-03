@@ -1,0 +1,11 @@
+.gitattributes
+models/
+tmp/
+*.bak
+*.pkl
+__pycache__/
+.last_checked
+.gitconfig
+.ipynb_checkpoints/
+*.zip
+downloads/
